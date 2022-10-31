@@ -1,0 +1,53 @@
+
+
+body{
+  background-color: #012632;
+  font-family: monospace;
+
+}
+
+
+
+h1  {
+  text-align: center;
+  color: green;
+margin-top:40px;
+  }
+
+
+p{
+  color: green;
+  text-align: center;
+
+  }
+.sitat{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+  }
+  .overskrift{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40px;
+
+  }
+  .overskrift1{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+  }
+.overskrift2{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+.bilde {
+  width: 300px;
+  border-radius: 70%;
+  border-color: green;
+  border-width: 4px;
+  border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
